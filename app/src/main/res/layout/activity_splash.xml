@@ -20,7 +20,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="AdvancedTemplate"
+            android:text="Templates"
             android:textColor="#0A2DF3"
             android:textSize="24sp" />
     </LinearLayout>
