@@ -8,6 +8,7 @@
         android:id="@+id/message_txt"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="#AAA7A7"
         android:backgroundTint="#9A9696"
         android:text="TextView"
         android:textColor="#0E0E0E"
