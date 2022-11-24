@@ -10,5 +10,6 @@ public class TemplateActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_advanced_template);
+        getSupportActionBar().setTitle("Template");
     }
 }
